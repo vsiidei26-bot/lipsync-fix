@@ -1,0 +1,7 @@
+# exact versions validated on 2026-10-04 (macOS arm64 + Linux x86_64 CPU)
+torch==2.14.1
+numpy==2.4.6
+scipy==1.17.1
+opencv-contrib-python-headless==5.0.0.93
+python_speech_features==0.6
+mediapipe==0.10.14
